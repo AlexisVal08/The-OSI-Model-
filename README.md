@@ -39,18 +39,50 @@ The Physical Layer serves as the foundation of the OSI model, dealing with the t
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h2> Layer #2: Data Link </h2>
+
+![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+
+The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2> Layer #3: Network </h2>
+
+![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+
+The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br />
+
+<h2> Layer #4: Transport </h2>
+
+![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+
+The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
+</p>
+<br />
+
+<h2> Layer #5: Session </h2>
+
+![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+
+The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
+</p>
+<br />
+
+<h2> Layer #6: Presentation </h2>
+
+![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+
+The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
+</p>
+<br />
+
+<h2> Layer #7: Application </h2>
+
+![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+
+The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
 </p>
 <br />
