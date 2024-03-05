@@ -33,10 +33,8 @@ The OSI (Open Systems Interconnection) model stands as a foundational framework 
 
 <h2> Layer #1: Physical </h2>
 
-<p>
-<img ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)/>
-</p>
-<p>
+![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+
 The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
 </p>
 <br />
