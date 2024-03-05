@@ -43,7 +43,7 @@ The Physical Layer serves as the foundation of the OSI model, dealing with the t
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-Ascending to the Data Link Layer, a skilled choreographer emerges, framing data into coherent structures called frames. This layer excels in addressing, error detection, and correction, ensuring a flawless performance within the local network. The duet of Logical Link Control (LLC) and Media Access Control (MAC) sub-layers adds an intricate harmony, managing logical addressing and hardware addresses.
+Ascending to the Data Link Layer, a skilled choreographer emerges, Taking charge of framing data into coherent structures called frames. This layer excels in addressing, error detection, and correction, ensuring a flawless performance within the local network. The duet of Logical Link Control (LLC) and Media Access Control (MAC) sub-layers adds an intricate harmony, managing logical addressing and hardware addresses. In the context of a Microsoft laptop, this layer plays a crucial role in establishing a reliable link between the laptop and other devices on the same network, such as a router or a printer. 
 </p>
 <br />
 
