@@ -43,7 +43,7 @@ The Physical Layer serves as the foundation of the OSI model, dealing with the t
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
+Ascending to the Data Link Layer, a skilled choreographer emerges, framing data into coherent structures called frames. This layer excels in addressing, error detection, and correction, ensuring a flawless performance within the local network. The duet of Logical Link Control (LLC) and Media Access Control (MAC) sub-layers adds an intricate harmony, managing logical addressing and hardware addresses.
 </p>
 <br />
 
@@ -51,7 +51,7 @@ The Physical Layer serves as the foundation of the OSI model, dealing with the t
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
+The Network Layer, the globe-trotter of the composition, takes center stage, orchestrating communication between devices on different networks. Armed with the Internet Protocol (IP), this layer assigns unique addresses and guides packets through routers, creating a seamless symphony of global connectivity.
 </p>
 <br />
 
@@ -59,7 +59,7 @@ The Physical Layer serves as the foundation of the OSI model, dealing with the t
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
+As the curtains rise higher, the Transport Layer assumes control, a virtuoso conductor ensuring reliable end-to-end communication. It segments and reassembles data, conducts flow control, and administers error detection and correction, with the dynamic duo of Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) offering distinct cadences.
 </p>
 <br />
 
@@ -67,7 +67,7 @@ The Physical Layer serves as the foundation of the OSI model, dealing with the t
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
+In the midst of this harmonious progression, the Session Layer steps forth as the maestro, establishing, managing, and concluding communication sessions between applications. It masterfully synchronizes the dialogue, allowing applications on different devices to exchange data in a beautifully choreographed performance.
 </p>
 <br />
 
@@ -75,7 +75,7 @@ The Physical Layer serves as the foundation of the OSI model, dealing with the t
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
+The Presentation Layer, an artistic translator, bridges the realms between the application layer and the lower layers. It compresses, encrypts, and formats data, ensuring a coherent language that resonates seamlessly across diverse systems and applications.
 </p>
 <br />
 
@@ -83,6 +83,8 @@ The Physical Layer serves as the foundation of the OSI model, dealing with the t
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-The Physical Layer serves as the foundation of the OSI model, dealing with the transmission and reception of raw binary data over the physical medium. It defines characteristics such as cables, connectors, and voltage levels, ensuring the accurate and reliable transfer of bits between devices. This layer is concerned with the actual hardware components, from cables and switches to the electrical impulses that represent the 0s and 1s of digital communication.
+Crowning this layered symphony, the Application Layer emerges as the virtuoso soloist, directly interacting with end-users and providing the pinnacle of network services. Protocols like HTTP, SMTP, and FTP are its instruments, delivering a captivating performance that facilitates the exchange of information and services.
 </p>
 <br />
+
+
