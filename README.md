@@ -51,7 +51,7 @@ Ascending to the Data Link Layer, a skilled choreographer emerges, framing data 
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-The Network Layer, the globe-trotter of the composition, takes center stage, orchestrating communication between devices on different networks. Armed with the Internet Protocol (IP), this layer assigns unique addresses and guides packets through routers, creating a seamless symphony of global connectivity.
+The Network Layer, the globe-trotter of the composition, takes center stage, orchestrating communication between devices on different networks. It extends the laptop's reach beyond the local network, handling logical addressing, routing, and packet forwarding. Internet Protocol (IP), a fundamental protocol at this layer, assigns unique addresses to the laptop and guides data packets through routers to reach their intended destinations. This layer forms the bridge for the laptop to communicate with devices on different networks, facilitating global connectivity.
 </p>
 <br />
 
