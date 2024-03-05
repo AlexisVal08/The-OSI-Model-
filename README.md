@@ -83,8 +83,7 @@ The Presentation Layer, an artistic translator, bridges the realms between the a
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-Crowning this layered symphony, the Application Layer emerges as the virtuoso soloist, directly interacting with end-users and providing the pinnacle of network services. Protocols like HTTP, SMTP, and FTP are its instruments, delivering a captivating performance that facilitates the exchange of information and services.
-</p>
+Finally, at the apex of the OSI model, the Application Layer directly interacts with end-users on the Microsoft laptop. It provides network services to applications, enabling functionalities such as web browsing (HTTP/HTTPS), email communication (SMTP), file transfers (FTP), and more. The Application Layer, with its diverse set of protocols, forms the interface through which users engage with the laptop's network capabilities. Crowning this layered symphony, these are the intruments used to  emerge as the virtuoso soloist, directly interacting with end-users, providing and delivering a captivating performance. Which ultimately, facilitates the exchange of information and the pinnacle of network services.
 <br />
 
-
+The seamless integration of these seven layers on a Microsoft laptop ensures that users experience a cohesive and reliable network environment. Data is encapsulated and decapsulated as it traverses these layers, with each layer adding its specific information to the data. This modular and hierarchical design fosters flexibility, allowing the laptop to adapt to different network technologies and protocols. In the realm of GitHub or any networked applications, this layered approach contributes to the creation of a robust and efficient computing environment.
