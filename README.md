@@ -59,7 +59,7 @@ The Network Layer, the globe-trotter of the composition, takes center stage, orc
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-As the curtains rise higher, the Transport Layer assumes control, a virtuoso conductor ensuring reliable end-to-end communication. It segments and reassembles data, conducts flow control, and administers error detection and correction, with the dynamic duo of Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) offering distinct cadences.
+As the curtains rise higher, the Transport Layer assumes control, a virtuoso conductor overseeing and ensuring reliable end-to-end communication. Segmenting and reassembling data, managing flow control, and handling error detection and correction. On a Microsoft laptop, protocols like Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) operate at this layer, ensuring the reliable exchange of data between the laptop and other devices or servers.
 </p>
 <br />
 
@@ -67,7 +67,7 @@ As the curtains rise higher, the Transport Layer assumes control, a virtuoso con
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-In the midst of this harmonious progression, the Session Layer steps forth as the maestro, establishing, managing, and concluding communication sessions between applications. It masterfully synchronizes the dialogue, allowing applications on different devices to exchange data in a beautifully choreographed performance.
+In the midst of this harmonious progression, the Session Layer steps forth as the maestro, establishing, managing, and concluding communication sessions between applications. As the maestro of communication sessions, ensures that applications on the Microsoft laptop can establish, manage, and terminate sessions seamlessly. It provides mechanisms for dialog control, ensuring that data is Masterfully synchronized appropriately. Allowing interactions within the laptop, applications and different devices to exchange data in a beautifully choreographed performance. 
 </p>
 <br />
 
@@ -75,7 +75,7 @@ In the midst of this harmonious progression, the Session Layer steps forth as th
 
 ![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
 
-The Presentation Layer, an artistic translator, bridges the realms between the application layer and the lower layers. It compresses, encrypts, and formats data, ensuring a coherent language that resonates seamlessly across diverse systems and applications.
+The Presentation Layer, an artistic translator, situated above the Session Layer bridges the realms between the application layer and the lower layers. It translates data between the application layer and the lower layers. It handles data compression, encryption, and formatting, ensuring that data is presented in a standardized manner. This layer facilitates to resonate seamlessly across applications within a Microsoft laptop and endlessly with other diverse systems.
 </p>
 <br />
 
