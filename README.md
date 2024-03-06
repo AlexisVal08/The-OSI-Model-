@@ -15,7 +15,7 @@ The OSI (Open Systems Interconnection) model stands as a foundational framework 
 
 <h2>Environments and Technologies Used</h2>
 
-- Essentially can be focused on any device computer, tablet, smartphone, etc... for now we our focusing on microsoft a laptop
+- Essentially can be focused on any device computer, tablet, smartphone, etc... for now we our focusing on microsoft laptop
 - Internet service 
 
 <h2>Operating Systems Used </h2>
