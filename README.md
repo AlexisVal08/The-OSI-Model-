@@ -33,7 +33,8 @@ The OSI (Open Systems Interconnection) model stands as a foundational framework 
 
 <h2> Layer #1: Physical </h2>
 
-![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+![OSI MODEL PROJECT](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/36c76074-470e-4dce-9ab3-9452a0f91142)
+
 
 
 The Physical Layer stands as the bedrock of the OSI model, providing the foundational infrastructure for network communication. It is dedicated to the transmission and reception of raw binary data over the physical medium, defining critical characteristics like cables, connectors, and voltage levels. In the context of a laptop, the Physical Layer governs the hardware components, ensuring the accurate and reliable transfer of bits between devices. From the intricacies of cables and switches to the pulsating electrical impulses embodying digital 0s and 1s, this layer plays a pivotal role. It oversees the tangible connectivity, whether through physical cables or wireless signals, ensuring that the essential transmission of raw binary data occurs with precision and reliability. In essence, the Physical Layer serves as the backbone, orchestrating the hardware elements that enable the laptop to engage in seamless data transmission within the intricate symphony of the OSI model.
@@ -42,15 +43,15 @@ The Physical Layer stands as the bedrock of the OSI model, providing the foundat
 
 <h2> Layer #2: Data Link </h2>
 
-![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+![OSI data link](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/1958b713-2cdb-429d-942b-2097a82cc6e8)
 
-Ascending to the Data Link Layer, a skilled choreographer emerges, Taking charge of framing data into coherent structures called frames. This layer excels in addressing, error detection, and correction, ensuring a flawless performance within the local network. The duet of Logical Link Control (LLC) and Media Access Control (MAC) sub-layers adds an intricate harmony, managing logical addressing and hardware addresses. In the context of a Microsoft laptop, this layer plays a crucial role in establishing a reliable link between the laptop and other devices on the same network, such as a router or a printer. 
+Ascending to the Data Link Layer, Taking charge of framing data into coherent structures called frames. This layer excels in addressing, error detection, and correction, ensuring a flawless performance within the local network. The duet of Logical Link Control (LLC) and Media Access Control (MAC) sub-layers adds an intricate harmony, managing logical addressing and hardware addresses. In the context of a Microsoft laptop, this layer plays a crucial role in establishing a reliable link between the laptop and other devices on the same network, such as a router or a printer. 
 </p>
 <br />
 
 <h2> Layer #3: Network </h2>
 
-![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+![OSI network](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/e811c2a4-4822-4d7f-a2d1-33d28e0def13)
 
 The Network Layer, the globe-trotter of the composition, takes center stage, orchestrating communication between devices on different networks. It extends the laptop's reach beyond the local network, handling logical addressing, routing, and packet forwarding. Internet Protocol (IP), a fundamental protocol at this layer, assigns unique addresses to the laptop and guides data packets through routers to reach their intended destinations. This layer forms the bridge for the laptop to communicate with devices on different networks, facilitating global connectivity.
 </p>
@@ -58,7 +59,7 @@ The Network Layer, the globe-trotter of the composition, takes center stage, orc
 
 <h2> Layer #4: Transport </h2>
 
-![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+![OSI transport](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/b74eda6a-be4d-49dc-8d24-99caf83c19f7)
 
 As the curtains rise higher, the Transport Layer assumes control, a virtuoso conductor overseeing and ensuring reliable end-to-end communication. Segmenting and reassembling data, managing flow control, and handling error detection and correction. On a Microsoft laptop, protocols like Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) operate at this layer, ensuring the reliable exchange of data between the laptop and other devices or servers.
 </p>
@@ -66,7 +67,7 @@ As the curtains rise higher, the Transport Layer assumes control, a virtuoso con
 
 <h2> Layer #5: Session </h2>
 
-![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+![OSI session](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/0c12a983-a381-487d-bea8-f8ea74690de0)
 
 In the midst of this harmonious progression, the Session Layer steps forth as the maestro, establishing, managing, and concluding communication sessions between applications. As the maestro of communication sessions, ensures that applications on the Microsoft laptop can establish, manage, and terminate sessions seamlessly. It provides mechanisms for dialog control, ensuring that data is Masterfully synchronized appropriately. Allowing interactions within the laptop, applications and different devices to exchange data in a beautifully choreographed performance. 
 </p>
@@ -74,7 +75,7 @@ In the midst of this harmonious progression, the Session Layer steps forth as th
 
 <h2> Layer #6: Presentation </h2>
 
-![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+![OSI presentation](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/1f05d9a3-4e61-4c9c-85f0-c157e3eb64ea)
 
 The Presentation Layer, an artistic translator, situated above the Session Layer bridges the realms between the application layer and the lower layers. It translates data between the application layer and the lower layers. It handles data compression, encryption, and formatting, ensuring that data is presented in a standardized manner. This layer facilitates to resonate seamlessly across applications within a Microsoft laptop and endlessly with other diverse systems.
 </p>
@@ -82,7 +83,7 @@ The Presentation Layer, an artistic translator, situated above the Session Layer
 
 <h2> Layer #7: Application </h2>
 
-![OSI Layer #1](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/99d775d6-fe0e-406d-97f7-690b00fad7fe)
+![OSI application](https://github.com/AlexisVal08/The-OSI-Model-/assets/135868956/149c8a08-cb19-4468-978d-ae5b0eb04540)
 
 Finally, at the apex of the OSI model, the Application Layer directly interacts with end-users on the Microsoft laptop. It provides network services to applications, enabling functionalities such as web browsing (HTTP/HTTPS), email communication (SMTP), file transfers (FTP), and more. The Application Layer, with its diverse set of protocols, forms the interface through which users engage with the laptop's network capabilities. Crowning this layered symphony, these are the intruments used to  emerge as the virtuoso soloist, directly interacting with end-users, providing and delivering a captivating performance. Which ultimately, facilitates the exchange of information and the pinnacle of network services.
 <br />
