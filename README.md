@@ -9,10 +9,6 @@
 The OSI (Open Systems Interconnection) model stands as a foundational framework for conceptualizing and standardizing the intricate processes involved in computer networking. Developed by the International Organization for Standardization (ISO), the OSI model divides the networking functions into seven distinct layers, each with a specific set of responsibilities. This layered approach ensures that the complexities of network communication are systematically addressed, promoting interoperability and modularity within the diverse world of computer networks.
 
 
-<h2>Video Demonstration</h2>
-
-- ### [https://www.youtube.com/watch?v=Ilk7UXzV_Qc)
-
 <h2>Environments and Technologies Used</h2>
 
 - Essentially can be focused on any device computer, tablet, smartphone, etc... for now we our focusing on microsoft laptop
